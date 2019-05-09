@@ -24,7 +24,7 @@ import com.example.porfirio.codicefiscale.engine.CitiesCodes;
 import com.example.porfirio.codicefiscale.engine.Engine;
 import com.example.porfirio.codicefiscale.engine.Person;
 import com.example.porfirio.codicefiscale.engine.ReverseGeocoding;
-
+//esempio
 public class MainActivity extends Activity {
     private CitiesCodes cc;
     private Person person = new Person();
